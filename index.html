@@ -6,7 +6,7 @@
    <link href="https://fonts.googleapis.com/css?family=Montserrat|PT+Sans+Caption&display=swap" rel="stylesheet">
   <style type="text/css">
    body{
-   background: linear-gradient(90deg, #0ca1f7, #6a00db);
+   background: linear-gradient(to right, #0ca1f7, #375ff0 ,#6a00db);
    }
    h1{
        color: white;
@@ -20,15 +20,48 @@
        font-size: 10px;
        font-family: 'Montserrat', sans-serif;
        margin: 20px 150px 10px 1000px;
-       /*border: dashed black 2px;*/
+   
    }
    #box{
-       width: 300px;
+       width: 320px;
        height: 300px;
-       border: dashed black 2px;
-       margin: 25px 150px 10px 810px;
+       
+       margin: 25px 150px 10px 800px;
        border-radius: 5%;
-       /*background-color: ;*/
+       background-color: rgba(255,255,255,.25) ;
+   }
+   #welcome{
+       text-align: center;
+       color: white;
+       font-size: 25px;
+       font-family: PT Sans Caption; 
+       padding-top:45px;
+   }
+   #signinbox{
+   width: 75px;
+   height: 45px;
+   margin-top: -230px;
+   margin-left:920px;
+   border-radius: 5%;
+   background-color: rgba(255,255,255,.25) ;
+   }
+   
+   .signin{
+       color:white;
+       text-align:center;
+       padding-top: 15px;
+   }
+   
+   #subtext1{
+       text-align:center;
+       color: white;
+       padding-top: 50px;
+   }
+   
+   #subtext2{
+       text-align:center;
+       color: white;
+       padding-top: 50px;
    }
   </style>
   </head>
@@ -38,7 +71,16 @@
        <h2>By IO Education</h2>
   </div>
   <div id="box">
-      
+   
+    <p id="welcome">
+            Welcome
+        </p> 
+    <p id="subtext1">
+        Parents Register | Student Register 
+    </p>
   </div>
+  <div id="signinbox">
+      <p class="signin">Sign In</p>  
+    </div>
   </body>
 </html>
