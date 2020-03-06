@@ -2,5 +2,5 @@ This is a copycat project that we were assigned to do.
 I made a copy of the pupilpath homepage. The reason for me doing this mini project was to see if I fully grasped how to use CSS and HTML in wed desiging. During the making of this porject I faced many problems like how to center the box and the button on the screen. Eventually I figured out that I needed to create a class or id then use it in a div to create that box. Margin and padding was also used a lot in order to porperty center everything. One of the challenges I had to face was trying to make this page dynamic instaed of static. Since I created everything on a monitor on a desktop the page would look very different when looking at it from a phone or laptop screen. So in order to make it dynamic I first centered the div of the box and used the code auto for the left and right margins.  
   
   [Link to My Planing](https://docs.google.com/document/d/1ijs_SERMyEs6Oe83VnwM32KedDlul5dAWX5Cfk_9m28/edit?usp=sharing)  
-  [Link to Site](https://kevind7693.github.io/copy-cat-project/)
+  [Link to Site](https://kevind7693.github.io/copy-cat-project/)  
   [Link to My Portfolio](https://kevind7693.github.io/)
